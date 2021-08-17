@@ -1,4 +1,4 @@
-import * as zoid from 'zoid/dist/zoid.frameworks.frame.min.js';
+import * as zoid from 'zoid/dist/zoid.frameworks.frame';
 
 let HeliumWidget = zoid.create({
   tag: 'helium-widget',
